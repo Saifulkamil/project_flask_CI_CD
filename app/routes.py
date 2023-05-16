@@ -2,7 +2,7 @@ from app import app
 
 @app.route('/')
 def index():
-    dataHome = "INI page Home"
+    dataHome = "INI page Homew"
     return dataHome
 
 @app.route('/profile')
